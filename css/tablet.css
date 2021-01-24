@@ -12,4 +12,7 @@
 
 .plans-container--slider {
     justify-content: center;
+    scroll-behavior:unset;
+    overflow-x: hidden;
 }
+
